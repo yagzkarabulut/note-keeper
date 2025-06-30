@@ -15,7 +15,7 @@
 - JavaScript: Functionality to add, edit, and delete notes
 
 
-# Preview
+# Screen
 ![noteKeeper](https://github.com/user-attachments/assets/29e0617e-cba0-47d4-9117-1031228135e7)
 
 
